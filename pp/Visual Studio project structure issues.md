@@ -4,7 +4,9 @@ Creating and Running Unit Tests for Managed Code
 **Issues during working process on VS**
 
 1.If project requires to test a local software, we just need to create a class library project which can not be executed.
+
 2.Add a Unit Test project inside of the solution and set it as StartUp project.
+
 3.Write source codes into class library, write test cases into unit test project.
 
 **Prepare the walkthrough**
